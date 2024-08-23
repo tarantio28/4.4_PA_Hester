@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/4.4_PA_Hester/static/css/main.e6c13ad2.css",
+    "main.js": "/4.4_PA_Hester/static/js/main.9d726792.js",
+    "static/js/453.0a78bbbb.chunk.js": "/4.4_PA_Hester/static/js/453.0a78bbbb.chunk.js",
+    "index.html": "/4.4_PA_Hester/index.html",
+    "main.e6c13ad2.css.map": "/4.4_PA_Hester/static/css/main.e6c13ad2.css.map",
+    "main.9d726792.js.map": "/4.4_PA_Hester/static/js/main.9d726792.js.map",
+    "453.0a78bbbb.chunk.js.map": "/4.4_PA_Hester/static/js/453.0a78bbbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9d726792.js"
+  ]
+}
